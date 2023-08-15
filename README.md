@@ -69,3 +69,51 @@ Live GPS tracking of Transporter's Current Location
 [Back to Table of Contents](#table-of-contents)
 
 <br>
+
+### AWS Frontend Login & Sign-Up
+<p>
+Description: 
+  <br>
+Users can login or create an account that will be stored in the backend. When creating a new account, users can select their desired account type so they will be routed to the correct page upon logging in. After submitting all fields, the user will be sent a verification code in their email to verify their account. Once a verified account logs in, they are routed to a page based on account type (shipper, transporter, dispatcher, or admin). From there, each actor (account type) has certain actions and pages available to them.
+  <br>
+  <br>
+Date: Jan 2023 - Mar 2023
+  <br>
+Language: Flutter / Dart
+  <br>
+Video Links:
+  <br>
+</p>
+
+[Login & Sign-Up Demo](https://youtu.be/BlXclX1P92Q)
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
+### buttonlist
+<p>
+Description: 
+  <br>
+Client requested an infinite scrollable package list for Android & IOS in 10 weeks using Flutter.
+  <br>
+  <br>
+Date: Sept 2023 - Dec 2023
+  <br>
+Language: Flutter / Dart
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/buttonlist/buttonlist_classes.png?raw=true" width=50% height=50%>
+  <br>
+List of key features of buttonlist
+  <br>
+  <br>
+<img src = "https://github.com/darylng154/Projects/blob/main//README_files/buttonlist/buttonlist_features.png?raw=true" width=50% height=50%>
+  <br>
+List of classes used in buttonlist
+  <br>
+  <br>
+</p>
